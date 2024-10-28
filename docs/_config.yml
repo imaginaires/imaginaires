@@ -16,18 +16,21 @@
 title: Imaginaires Sans Frontières
 email: imaginairessansfrontieres@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Contribuer au bien être des patients par des parenthèses ludiques."
+  Contribuer au bien être des patients par des parenthèses ludiques.
 domain: imaginaires.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://imaginaires.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: false
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
