@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Page test
+description: La description va ici
 ---
 
-## Welcome to another page
+## Une autre page
 
-_yay_
+![Un petit Miro](https://www.morganodriscoll.com/hqart2/2343-156_1.jpg)
 
 [back](./)
 
