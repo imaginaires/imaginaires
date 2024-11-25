@@ -11,7 +11,7 @@ metadata:
   title:
     default: Imaginaires Sans Frontières
     template: '%s — Imaginaires Sans Frontières'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Contribue au bien être des patients par des parenthèses ludiques."
   robots:
     index: true
     follow: true
@@ -69,4 +69,4 @@ analytics:
       id: null # or "G-XXXXXXXXXX"
 
 ui:
-  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+  theme: 'dark:only' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
