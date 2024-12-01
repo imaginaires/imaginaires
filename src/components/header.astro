@@ -3,11 +3,6 @@ import { Icon } from "astro-icon/components";
 import ThemeSwitcher from "~/components/theme-switcher.astro";
 import type { NavItem } from "~/types";
 
-const navItems: Array<NavItem> = [
-  { title: "Features", url: "#features" },
-  { title: "Compatibility", url: "#compatibility" },
-  { title: "Showcase", url: "#showcase" },
-];
 ---
 
 <header
@@ -21,27 +16,6 @@ const navItems: Array<NavItem> = [
   </a>
   <div>
     <div class="flex items-center gap-6">
-      <nav class="hidden sm:block">
-        <ul class="flex items-center gap-6">
-          {
-            navItems.map(({ title, url }) => (
-              <li>
-                <a class="text-sm" href={url}>
-                  {title}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </nav>
-      <button
-        id="open-nav-button"
-        type="button"
-        class="btn sm:hidden"
-        aria-label="Navigation"
-      >
-        <Icon name="mdi:menu" class="size-8" />
-      </button>
       <ThemeSwitcher />
     </div>
     <div id="menu-modal" class="modal hidden" aria-hidden="true">
@@ -60,19 +34,6 @@ const navItems: Array<NavItem> = [
           <div class="flex justify-center">
             <Icon name="logomark" class="size-16" />
           </div>
-          <nav>
-            <ul class="flex flex-col">
-              {
-                navItems.map(({ title, url }) => (
-                  <li>
-                    <a class="block py-4 text-center text-xl" href={url}>
-                      {title}
-                    </a>
-                  </li>
-                ))
-              }
-            </ul>
-          </nav>
         </div>
       </div>
     </div>
