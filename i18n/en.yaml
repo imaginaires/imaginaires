@@ -1,14 +1,15 @@
-home: Home
-read_more: Read More
-send: Send
-related_posts: Related Posts
-categories: Categories
+home: Accueil
+read_more: Lire Plus
+send: Renvoyer
+related_posts: Articles Connexes
+categories: Catégories
 tags: Tags
-toc: Table of Contents
-share: Share
-search_input_placeholder: Search Post...
-search_no_results: No results for
-search_initial_message: Type something to search..
-search_navigate: to navigate
-search_select: to select
-search_close: to close
+toc: Table des Matières
+share: Partager
+search_input_placeholder: Rechercher un article...
+search_no_results: Aucun résultat pour
+search_initial_message: Tapez quelque chose pour rechercher...
+search_navigate: pour naviguer
+search_select: pour sélectionner
+search_close: pour fermer
+
