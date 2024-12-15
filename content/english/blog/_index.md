@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Articles de Blog"
 meta_title: ""
-description: "this is meta description"
+description: "Article du Blog d'ISF"
 ---

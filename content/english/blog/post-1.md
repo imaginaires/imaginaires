@@ -1,23 +1,19 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Première Escapade au CHU de Bordeaux"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+description: "Première Escapage au CHU de Bordeaux"
+date: 2024-12-15
+image: "https://pdassets.foip.me/original/2X/4/47b9af38ff407a9f94eed6e0dc06e5d6168d5d67.jpeg"
+categories: ["JDR", "ISF"]
+author: "Baptiste & Mickael"
+tags: ["jdr", "honey-heist", "one-shot"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+En partenariat avec l'association [les Liens du Coeur](https://www.lesliensducoeur.org/), dans le cadre de leurs
+activités du calendrier de l'avent, nous avons animé une petite séance de Honey Heist pour les enfants et leurs parents!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Voici un lien pour télécharger le jeu original dévelopé par Grant Howitt in 2017 sur une simple feuille de papier!
+Le tout est disponible en gratuitement en libre accès!
+- [Honey Heist](https://gshowitt.itch.io/honey-heist)
 
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
