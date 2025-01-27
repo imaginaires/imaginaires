@@ -1,12 +1,8 @@
----
-title: "À Propos d'Imaginaires Sans Frontières"
-meta_title: "À Propos"
-description: "Imaginaires Sans Frontières, c'est quoi?"
-image: "/images/banner-bw.svg"
-draft: false
----
+# Imaginaires Sans Frontières
 
-Bienvenue sur le site d'Imaginaires Sans Frontières, une association dédiée à apporter des moments de joie et d'évasion à des patient.e.s hospitalisés. Notre mission est de contribuer au bien-être des patients en introduisant des parenthèses ludiques dans leur quotidien parfois répétitif, notamment lors de longues hospitalisations.
+Bienvenue sur le site d'Imaginaires Sans Frontières, une association dédiée à apporter des moments de joie et d'évasion à des patient.e.s hospitalisés. Notre mission **contribuer au bien être des patients en introduisant des parenthèses ludiques** dans leur quotidien parfois répétitif, notamment lors de longues hospitalisations.
+
+![](img/logo-isf-fullart.svg)
 
 Nous organisons des sessions de jeux de rôle captivants pour les enfants à partir de 5 ans, mais aussi pour les adolescents et les adultes. Nos activités se déroulent dans les services hospitaliers, où nous créons des moments d'évasion dans des univers multiples et variés. Que ce soit en menant des enquêtes palpitantes, en orchestrant le casse du siècle, ou en vivant des aventures épiques d'héroïc-fantaisie, chaque scénario est conçu pour stimuler l'imaginaire et divertir les participant.e.s.
 
