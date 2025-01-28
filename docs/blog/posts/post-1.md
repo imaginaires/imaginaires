@@ -2,10 +2,10 @@
 title: "Première Escapade au CHU de Bordeaux"
 date: 2024-12-15
 categories: 
-    - jdr
-    - Jeux de rôles
+    - JDR
+    - Jeux de Rôles
     - Activités
-author: 
+authors: 
     - bm
     - mt
 ---

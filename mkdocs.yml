@@ -1,5 +1,5 @@
 site_name: Imaginaires Sans Frontières
-site_description: Imaginaires Sans Frontières contribue au bien être des patients par des parenthèses ludiques.
+site_description: Imaginaires Sans Frontières est une association dont la mission est de contribuer au bien être des patients par des parenthèses ludiques.
 site_url: https://imaginaires.github.io/
 theme:
   language: fr
@@ -14,9 +14,8 @@ theme:
     primary: purple
     accent: teal
   features:
-    - navigation.tabs
     - navigation.indexes
-logo: assets/images/logo-isf.svg
+    # - navigation.tabs
 plugins:
   - search
   - blog
@@ -24,9 +23,16 @@ extra:
   social:
   - icon: fontawesome/brands/instagram
     link: https://www.instagram.com/imaginairessansfrontieres
-copyright: Copyright &copy; 2024 Imaginaires Sans Frontières
+  generator: false
+hooks:
+  - hooks/socialmedia.py
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
-  - Acceuil: index.md
+  - À Propos: index.md
   - Blog:
      - blog/index.md
-
+copyright: Copyright &copy; 2024 Imaginaires Sans Frontières

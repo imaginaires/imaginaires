@@ -1,3 +1,12 @@
+---
+title: "À Propos"
+date: 2024-12-01
+author: 
+    - bm
+    - mt
+pin: true
+---
+
 # Imaginaires Sans Frontières
 
 Bienvenue sur le site d'Imaginaires Sans Frontières, une association dédiée à apporter des moments de joie et d'évasion à des patient.e.s hospitalisés. Notre mission est de **contribuer au bien être des patient.e.s en introduisant des parenthèses ludiques** dans leur quotidien parfois répétitif, notamment lors de longues hospitalisations.
